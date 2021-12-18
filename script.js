@@ -1,1 +1,3 @@
-alert("hacking approved")
+window.onmousemove = function() {
+  alert("bug finded…")
+}
